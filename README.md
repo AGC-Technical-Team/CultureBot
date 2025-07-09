@@ -1,4 +1,4 @@
-# CultureBot 🌍🤖
+# CultureBot 
 
 A FastAPI microservice that answers culture and arts questions using the Mistral-7B-Instruct model from Hugging Face.
 
@@ -156,4 +156,4 @@ MIT
 
 ---
 
-Made with ❤️ by DevOps × AI
+
